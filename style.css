@@ -1,0 +1,78 @@
+body{
+    font-family: 'Righteous', cursive;
+    padding: 0;
+    margin: 0;
+}
+.heading{
+    background-image: url(images/header-bg.png);
+    padding: 0 70px;
+}
+.w-50{
+    width: 45%;
+    margin: 0 1.5%;
+    display: inline-block;
+}
+.image img{
+    width: 100%;
+}
+.text h1{
+    font-size: 48px;
+    color: coral;
+}
+.text a{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(to right, coral ,tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 13px;
+}
+.banner{
+    background-image: url(images/biography-bg.png);
+    padding: 0 70px;
+}
+.work{
+    margin: 0 70px ;
+}
+.hea{
+    padding: 70px;
+    display: block;
+    text-align: center;
+    font-size: 48px;
+}
+.work img{
+    width: 30%;
+    margin: 0 1%;
+}
+.contact{
+    display: block;
+    text-align: center;
+    margin-bottom: 150px;
+}
+.contact p{
+    display: inline-block;
+    width: 40%;
+    text-align: center;
+}
+.mail{
+    text-decoration: none;
+    color:blue;
+    background-image: linear-gradient(to right, coral ,tomato);
+    padding: 50px 200px;
+    border-radius: 20px;
+    font-size: 20px;
+    display: inline-block;
+    margin-top: 100px;;
+}
+.mail a{
+    text-decoration: none;
+        font-size: 25px;
+        
+    color:blue;
+}
+footer{
+    font-size: 13px;
+    color: darkgray;
+    text-align: center;
+    margin: 30px;
+}
